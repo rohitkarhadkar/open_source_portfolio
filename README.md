@@ -18,7 +18,7 @@ This repository showcases my contributions to the open-source project 'Pantry No
 
 **Sprint 4**  (April 18 - May 1)
 
-[PR Review](https://github.com/ChicoState/PantryNode/pull/225) : Reviewed Pull Request "Added test cases for Sale table".  
+[PR Review](https://github.com/ChicoState/PantryNode/pull/225#pullrequestreview-1408403150) : Reviewed Pull Request "Added test cases for Sale table".  
 [PR Review](https://github.com/ChicoState/PantryNode/pull/219#pullrequestreview-1407060091) : Review for login component test cases.  
 [Pull Request](https://github.com/ChicoState/PantryNode/pull/219/commits/2f8bb541bf167dedd533ab3cffa12dcd39b5b96a) : Added coverage for components folder  
 [Pull Request](https://github.com/ChicoState/PantryNode/pull/219/commits/ec08d41fffba108af2e13ea6a0bfa9de586dd11f) : The test cases validate the EmailResetComponent's rendering, error message display for invalid or empty email input, and successful navigation to the verify page upon entering a valid email and clicking the "Get Code" button. 

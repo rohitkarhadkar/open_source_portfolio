@@ -3,7 +3,7 @@ This repository showcases my contributions to the open-source project 'Pantry No
 
 **Sprint 1**  (February 28 - March 20)
 
-[Pull Request](https://github.com/ChicoState/PantryNode/pull/59) : Issue #21:Added unit test to authSignupController for existing user scenario. This Pull Request adds infrastructure for automated testing using Jest, focusing on unit testing. It includes a test case to verify user existence in the database but wasn't merged due to being based on outdated code.
+[Pull Request](https://github.com/ChicoState/PantryNode/pull/59) : Issue #21: Added unit test to authSignupController for existing user scenario. This Pull Request adds infrastructure for automated testing using Jest, focusing on unit testing. It includes a test case to verify user existence in the database but wasn't merged due to being based on outdated code.
 
 **Sprint 2**  (March 21 - April 3)
 
